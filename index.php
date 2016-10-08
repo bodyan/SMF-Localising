@@ -9,7 +9,7 @@ $english = 'english';
 $input   = 'translation';
 $output  = 'output';
 
-$file->completeTranslation($english , $input, $output)
+$file->completeTranslation($english , $input, $output);
 
 
 ?>
