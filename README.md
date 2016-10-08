@@ -1,5 +1,5 @@
 # SMF-Localising
-This simple script allows create translation for smf forum through your old localised files according to new english files. 
+This simple script allows to create translation for SMF forum through your old language files according to new english.. 
 All spaces and comments will be preserved.
 Multi translations must have an identical number of rows.
 In root must be created three folders:
